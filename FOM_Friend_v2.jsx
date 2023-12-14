@@ -101,9 +101,7 @@
         //
 
         function myScript_buildUI(thisObj) {
-            var myPanel = (thisObj instanceof Panel) ? thisObj : new Window("palette", "FOM Friend", undefined, {
-                resizable: true
-            });
+            var myPanel = new Window("palette", "FOM Friend", undefined, { resizeable: true });
 
             if (myPanel !== null) {
 
