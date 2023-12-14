@@ -5,30 +5,27 @@
 A time-saving, low-profile UI panel for frequently used elements and effects.
 Based on Get-Sh*t-Done Palette by Markus Feder
 
+
+
 Moded to include:
 -----------------
-Q Spans by Jason Schwarz
-rd_MergeProjects v3.2 by Jeffrey R. Almasol
-Simple Camera Rig by James Chiny
+- Q Spans by Jason Schwarz
+- rd_MergeProjects v3.2 by Jeffrey R. Almasol
+- Simple Camera Rig by James Chiny
 
 Added one-click options for:
 ----------------------------
 Plexus, Optical Flares, RSMB Pro Vectors
 
-Removed:
----------------
-Timecode and redundant controls
-
-Updated for CC compatibility:
----------------
-Gradient Ramp
-
 ------------------------------------------
 -- Individual script notes listed below --
 ------------------------------------------
 
-Get-Sh*t-Done Palette	Version: 0.95	Date:04.08.2010		
-by Markus Feder		mail(at)markusfeder.com
+Get-Sh*t-Done Palette
+Version: 0.95
+Date:04.08.2010		
+by Markus Feder
+mail(at)markusfeder.com
 
 This script helps me cut some corners with creating layers and 
 applying effects in Adobe Aftereffects CS4.
@@ -98,10 +95,6 @@ by Fred Cretet. Thanks to Paul Tuersley for the try/catch part.
 ----------
 
  SimpleCameraRig.jsx
- ©November 2009  James Chiny http:hypoly.com
- twitter.com/hypoly
- For more scripts and updates check out http:hypoly.com
-SimpleCameraRig.jsx
  ©November 2009  James Chiny http:hypoly.com
  twitter.com/hypoly
  For more scripts and updates check out http:hypoly.com
