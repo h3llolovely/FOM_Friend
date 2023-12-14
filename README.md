@@ -15,9 +15,10 @@ Moded to include:
 
 Get-Sh*t-Done:
 ----------------------------
-![AfterFX_6aVPbiZFla](https://github.com/h3llolovely/FOM_Friend/assets/101287022/6f185788-6cda-4052-aabb-893a3590ad9f)
 
 Basic: (Basic layers and elements)
+----------------------------
+![AfterFX_6aVPbiZFla](https://github.com/h3llolovely/FOM_Friend/assets/101287022/6f185788-6cda-4052-aabb-893a3590ad9f)
 - Null layer
 - Solid Layer
 - Text layer
@@ -32,10 +33,9 @@ Basic: (Basic layers and elements)
 - Project Setup (Create Project folder heirarchy)
 ![AfterFX_y7Jp2PYXyd](https://github.com/h3llolovely/FOM_Friend/assets/101287022/94145abf-0a2f-4c3f-b27d-e649e320c83f)
 
-
-![AfterFX_1a2V8974QD](https://github.com/h3llolovely/FOM_Friend/assets/101287022/fcb61949-259f-4632-bf16-2a66ba15e1d8)
-
 Adjust/FX: (Commonly used adjustment and Effects layers)
+----------------------------
+![AfterFX_1a2V8974QD](https://github.com/h3llolovely/FOM_Friend/assets/101287022/fcb61949-259f-4632-bf16-2a66ba15e1d8)
 - Color Correction
 - HighPass Filter
 - Tritone
@@ -50,9 +50,9 @@ Adjust/FX: (Commonly used adjustment and Effects layers)
 - Fast Blur
 - Expression Slider
 
-![AfterFX_vL6XrRqACI](https://github.com/h3llolovely/FOM_Friend/assets/101287022/e62719dd-a373-40d7-9729-244fd8ad8743)
-
 Trapcode: (Commonly used RedGiant Effect layers)
+----------------------------
+![AfterFX_vL6XrRqACI](https://github.com/h3llolovely/FOM_Friend/assets/101287022/e62719dd-a373-40d7-9729-244fd8ad8743)
 - Particular
 - Form
 - Shine
@@ -65,9 +65,9 @@ Trapcode: (Commonly used RedGiant Effect layers)
 
 - Sound Keys
 
-![AfterFX_6sgiSroGdr](https://github.com/h3llolovely/FOM_Friend/assets/101287022/bcc5d800-53da-4fde-b3dd-99b70fd1bd3c)
-
 Generate: (Commonly used generators and viewport assistance)
+----------------------------
+![AfterFX_6sgiSroGdr](https://github.com/h3llolovely/FOM_Friend/assets/101287022/bcc5d800-53da-4fde-b3dd-99b70fd1bd3c)
 - Fill
 - Gradient Ramp
 - 4-Color Gradient
@@ -82,6 +82,7 @@ Generate: (Commonly used generators and viewport assistance)
 - Comp-BG White
 - Comp-BG Red
 
+----------------------------
 ![AfterFX_l9cYB14KSv](https://github.com/h3llolovely/FOM_Friend/assets/101287022/870d53c5-e135-4e32-9627-3856308315fe)
 
 Q Spans:
