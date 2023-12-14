@@ -2,20 +2,97 @@
 
 - Dec 2023 - Modified by: Jason Schwarz - jay@hellolovely.tv
 
-A time-saving, low-profile UI panel for frequently used elements and effects.
+A time-saving, low-profile UI panel for frequently used elements and effects in After Effects.
 Based on Get-Sh*t-Done Palette by Markus Feder
 
-![AfterFX_l9cYB14KSv](https://github.com/h3llolovely/FOM_Friend/assets/101287022/e8847008-390f-4937-bf39-0b1911c6ed67)
+![FOMfriend](https://github.com/h3llolovely/FOM_Friend/assets/101287022/ce521e91-e403-4e5e-9cf7-955585fde95c)
 
 Moded to include:
 -----------------
+- Get-Sh*t-Done Palette by Markus Feder
 - Q Spans by Jason Schwarz
 - rd_MergeProjects v3.2 by Jeffrey R. Almasol
-- Simple Camera Rig by James Chiny
 
-Added one-click options for:
+Get-Sh*t-Done:
 ----------------------------
-Plexus, Optical Flares, RSMB Pro Vectors
+![AfterFX_6aVPbiZFla](https://github.com/h3llolovely/FOM_Friend/assets/101287022/6f185788-6cda-4052-aabb-893a3590ad9f)
+
+Basic: (Basic layers and elements)
+- Null layer
+- Solid Layer
+- Text layer
+- Adjustment layer
+
+- Espi Rig
+- Camera Rig
+- Two-Node Camera\
+- On-Node Camera
+- Light
+
+- Project Setup (Create Project folder heirarchy)
+![AfterFX_y7Jp2PYXyd](https://github.com/h3llolovely/FOM_Friend/assets/101287022/94145abf-0a2f-4c3f-b27d-e649e320c83f)
+
+
+![AfterFX_1a2V8974QD](https://github.com/h3llolovely/FOM_Friend/assets/101287022/fcb61949-259f-4632-bf16-2a66ba15e1d8)
+
+Adjust/FX: (Commonly used adjustment and Effects layers)
+- Color Correction
+- HighPass Filter
+- Tritone
+- Magic Bullet Looks
+
+- RSMB Pro
+- RSMB Pro Vectors
+- FL Depth of Field
+
+- Optical Flares
+- Plexus
+- Fast Blur
+- Expression Slider
+
+![AfterFX_vL6XrRqACI](https://github.com/h3llolovely/FOM_Friend/assets/101287022/e62719dd-a373-40d7-9729-244fd8ad8743)
+
+Trapcode: (Commonly used RedGiant Effect layers)
+- Particular
+- Form
+- Shine
+- Starglow
+
+- 3D Stroke
+- Echospace
+- Horizon
+- Lux
+
+- Sound Keys
+
+![AfterFX_6sgiSroGdr](https://github.com/h3llolovely/FOM_Friend/assets/101287022/bcc5d800-53da-4fde-b3dd-99b70fd1bd3c)
+
+Generate: (Commonly used generators and viewport assistance)
+- Fill
+- Gradient Ramp
+- 4-Color Gradient
+- Fractal Noise
+- Checkerboard
+- Grid
+
+- Solid (black)
+- Solid (white)
+
+- Comp-BG Black (Change Comp viewport background color)
+- Comp-BG White
+- Comp-BG Red
+
+![AfterFX_l9cYB14KSv](https://github.com/h3llolovely/FOM_Friend/assets/101287022/870d53c5-e135-4e32-9627-3856308315fe)
+
+Q Spans:
+----------------------------
+- Q Comp Spans (Queues compositions' Marker Spans)
+- Q Layer Spans (Queues selected layers' Marker Spans)
+
+rd_MergeProjects:
+----------------------------
+- consult Help button
+
 
 ------------------------------------------
 -- Individual script notes listed below --
