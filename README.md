@@ -1,4 +1,6 @@
-FOM Friend v2 - Dec 2023
+#FOM Friend v2
+
+FOM Friend - Dec 2023
 Modified by: Jason Schwarz - jay@hellolovely.tv
 
 A time-saving, low-profile UI panel for frequently used elements and effects.
