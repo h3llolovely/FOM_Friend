@@ -1,22 +1,28 @@
-FOM Friend v2	Dec 2023
-Modified by: Jason Schwarz	hello(at)hellolovely.tv
+FOM Friend v2 - Dec 2023
+Modified by: Jason Schwarz - jay@hellolovely.tv
 
 A time-saving, low-profile UI panel for frequently used elements and effects.
 Based on Get-Sh*t-Done Palette by Markus Feder
 
-Moded to include:   
+Moded to include:
+-----------------
 Q Spans by Jason Schwarz
 rd_MergeProjects v3.2 by Jeffrey R. Almasol
 Simple Camera Rig by James Chiny
 
-Added one-click options for:	   Plexus, Optical Flares, RSMB Pro Vectors
+Added one-click options for:
+----------------------------
+Plexus, Optical Flares, RSMB Pro Vectors
+
 Removed:
+---------------
 Timecode and redundant controls
 
 Updated for CC compatibility:
+---------------
 Gradient Ramp
 
-
+------------------------------------------
 -- Individual script notes listed below --
 ------------------------------------------
 
