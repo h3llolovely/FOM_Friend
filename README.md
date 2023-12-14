@@ -1,7 +1,6 @@
-#FOM Friend v2
+# FOM Friend v2
 
-FOM Friend - Dec 2023
-Modified by: Jason Schwarz - jay@hellolovely.tv
+- Dec 2023 - Modified by: Jason Schwarz - jay@hellolovely.tv
 
 A time-saving, low-profile UI panel for frequently used elements and effects.
 Based on Get-Sh*t-Done Palette by Markus Feder
