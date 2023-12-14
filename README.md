@@ -162,17 +162,18 @@ by Fred Cretet. Thanks to Paul Tuersley for the try/catch part.
 
 ----------
 
- Q Spans
- ©2023 Jason Schwarz https:www.hellolovely.tv
+Q Spans
+Dec 2023 Original script by Matt Volp @TackStudio www.tackstudio.co
+Dec 2023 Jason Schwarz www.hellolovely.tv
 
-  Sends either Composition marker spans or selected layer marker spans to the Render Queue and appends the marker comment to the filename.
-  Useful for queueing multiple parts of a single comp, without having to rename each output.
+Sends either Composition marker spans or selected layer marker spans to the Render Queue and appends the marker comment to the filename.
+Useful for queueing multiple parts of a single comp, without having to rename each output.
 
- 1.0 - Initial release - Dec 2023
+1.0 - Initial release - Dec 2023
 
 ----------
 
- SimpleCameraRig.jsx
- ©November 2009  James Chiny http:hypoly.com
- twitter.com/hypoly
- For more scripts and updates check out http:hypoly.com
+SimpleCameraRig.jsx
+©November 2009  James Chiny https:hypoly.com
+twitter.com/hypoly
+For more scripts and updates check out https:hypoly.com
