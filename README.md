@@ -5,7 +5,7 @@
 A time-saving, low-profile UI panel for frequently used elements and effects.
 Based on Get-Sh*t-Done Palette by Markus Feder
 
-
+![AfterFX_l9cYB14KSv](https://github.com/h3llolovely/FOM_Friend/assets/101287022/e8847008-390f-4937-bf39-0b1911c6ed67)
 
 Moded to include:
 -----------------
